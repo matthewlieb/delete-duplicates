@@ -32,6 +32,7 @@ Anyone is welcome to contribute 🌟
 
 This project does not yet have a license 📄
 
+
 **Contact 📞**
 
 GitHub: https://github.com/matthewlieb
@@ -42,4 +43,5 @@ LinkedIn: https://www.linkedin.com/in/matthew-lieb/ 📧
 **Acknowledgements 🙏**
 
 *The initial code for this project came from this article: https://www.geeksforgeeks.org/deleting-duplicate-files-using-python/
+
 *ChatGPT also aided in the development of the code and creation of this project 🌟
