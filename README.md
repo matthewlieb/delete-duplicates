@@ -3,11 +3,13 @@
 Python tkinter app to find and delete duplicate files in a selected directory 💡
 
 
+
 **Features  ✨**
 
 * Select a directory to scan for duplicates 🚀
 * Save space on your computer 🌟
 * Simple interface 🎉
+
 
 
 **Installation 🛠️**
@@ -18,9 +20,11 @@ Python tkinter app to find and delete duplicate files in a selected directory �
 4. run python3 app.py
 
 
+
 **Usage 🚀**
 
 The app will open a Tkinter GUI that allows the user to select a folder to scan for duplicates, and move the duplicate files to the trash 📚
+
 
 
 **Contributing 🤝**
@@ -28,9 +32,11 @@ The app will open a Tkinter GUI that allows the user to select a folder to scan 
 Anyone is welcome to contribute 🌟
 
 
+
 **License 📝**
 
 This project does not yet have a license 📄
+
 
 
 **Contact 📞**
@@ -38,6 +44,7 @@ This project does not yet have a license 📄
 GitHub: https://github.com/matthewlieb
 
 LinkedIn: https://www.linkedin.com/in/matthew-lieb/ 📧
+
 
 
 **Acknowledgements 🙏**
