@@ -1,3 +1,6 @@
+
+![Untitled_AdobeExpress (1)](https://user-images.githubusercontent.com/4676246/231351141-e65a8a1d-6660-4710-91e9-04691fc5a3f3.gif)
+
 # Delete Duplicates 🔍
 
 Delete Duplicates is a Python tkinter app that scans a selected directory for duplicate files and moves them to the trash, freeing up space on your computer.
