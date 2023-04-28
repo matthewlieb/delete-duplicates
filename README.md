@@ -15,7 +15,10 @@ To install Delete Duplicates, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/matthewlieb/delete-duplicates.git`
 2. Navigate to the directory where you cloned the repository: `cd delete-duplicates`
-3. Run the app: `python3 app.py`
+3. Install the required libraries:
+    For PyQt5: pip install PyQt
+    For send2trash: pip install send2trash
+4. Run the app: `python3 app.py`
 
 ## Usage 🚀
 
