@@ -22,7 +22,7 @@ To install Delete Duplicates, follow these steps:
 
 ## Usage 🚀
 
-The app will open a Tkinter GUI that allows the user to select a folder to scan for duplicates and move the duplicate files to the trash.
+The app will open a PyQt GUI that allows the user to select a folder to scan for duplicates and move the duplicate files to the trash.
 
 ## Contributing 🤝
 
