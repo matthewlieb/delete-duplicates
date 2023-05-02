@@ -1,7 +1,7 @@
 
 # Delete Duplicates 🔍
 
-Delete Duplicates is a Python tkinter app that scans a selected directory for duplicate files and moves them to the trash, freeing up space on your computer.
+Delete Duplicates is a Python PyQt app that scans a selected directory for duplicate files and moves them to the trash, freeing up space on your computer.
 
 ## Features ✨
 
