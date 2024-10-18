@@ -1,3 +1,4 @@
+![portfolio-11-large](https://github.com/user-attachments/assets/c20aa426-066c-4b59-bf70-073710d9ec16)
 
 # Delete Duplicates 🔍
 
